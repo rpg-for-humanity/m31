@@ -13,4 +13,4 @@ At the heart of RPG for Humanity is the **Structured Language Mastery (SLM)** lo
 2. **Inference** - The player infers meaning and replies in English (or a mix of languages).  
 3. **Mastery of Effective Communication** - Through recap and correction, the player refines expression until clarity and empathy emerge.
 
-This loop transforms language learning into an act of connection—each conversation builds understanding not only between human and AI but across cultures.
+This loop transforms language learning into an act of connection. Each conversation builds understanding not only between human and AI but across cultures.
