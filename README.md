@@ -9,8 +9,8 @@ Understanding blooms through observation, recognition, inference, and repetition
 
 At the heart of RPG for Humanity is the **Structured Language Mastery (SLM)** loop—a design pattern that turns dialogue into comprehension:
 
-1. **Recognition** — The player identifies words, tones, and gestures through Kokorobot’s one-sentence responses.  
-2. **Inference** — The player infers meaning and replies in English (or a mix of languages).  
-3. **Mastery of Effective Communication** — Through recap and correction, the player refines expression until clarity and empathy emerge.
+1. **Recognition** - The player identifies words, tones, and gestures through Kokorobot’s one-sentence responses.  
+2. **Inference** - The player infers meaning and replies in English (or a mix of languages).  
+3. **Mastery of Effective Communication** - Through recap and correction, the player refines expression until clarity and empathy emerge.
 
 This loop transforms language learning into an act of connection—each conversation builds understanding not only between human and AI but across cultures.
