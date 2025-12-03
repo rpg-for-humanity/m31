@@ -1,4 +1,4 @@
-#m31 - RPG for Humanity
+# m31 - RPG for Humanity
 **Preparing humanity for a borderless future through language, culture, and play.**
 
 M31 is the first world of RPG for Humanity - a cultural-intelligence gaming platform that turns real-life language and cultural learning into play, while empowering global creators to build and share their own conversation sets and immersive cultural habitats.
@@ -52,22 +52,22 @@ The 6-Step Mastery Flow
      - missing inference cues
      
      This strengthens pattern recognition   and prepares them for production.
-  5) Written quiz A short written test checks:
+  4) Written quiz A short written test checks:
      - comprehension of the Kokorobot's language
      - meaning of key words
      - order of dialogue
      - contextual understanding
-  7) Speaking quiz Using STT, players complete:
+  5) Speaking quiz Using STT, players complete:
      - pronunciation checks 
      - short spoken prompts
      - micro-conversations
      - reacton tests
 
-#⭐️M31 Challenge Features to gain Coins and or Habitat items
+# ⭐️M31 Challenge Features to gain Coins and or Habitat items
 
-**1. Protect M31 Border** 
-Fight Off Aliens to Unlock Vocabulary At the M31 Border, players battle harmless alien shadows representing unknown vocabulary.
-Every alien defeated reveals: 
+   **1. Protect M31 Border** 
+    Fight Off Aliens to Unlock Vocabulary At the M31 Border, players battle harmless alien shadows representing unknown vocabulary.
+    Every alien defeated reveals: 
     - a word,
     - a phase,
     - or a sentence, 
@@ -75,34 +75,33 @@ Every alien defeated reveals:
 
     🔁 Learning Method: Repetition → Recognition → Association → Memory
 
-**2. The Interworld Myth Lab (Cultural Insight Capsules)** 
-The Myth Lab is a quiet hall of transparent capsules, each holding a glowing "Cultural Myth Entity." These entities are symbolic forms of misunderstandings that float between cultures.
-When the player clicks a capsule, the entity whispers a cultural insight, such as:
+  **2. The Interworld Myth Lab (Cultural Insight Capsules)** 
+    The Myth Lab is a quiet hall of transparent capsules, each holding a glowing "Cultural Myth Entity." These entities are symbolic forms of misunderstandings that float between cultures.
+    When the player clicks a capsule, the entity whispers a cultural insight, such as:
 
-  "Italians don't put cheese on fish."
+    "Italians don't put cheese on fish."
 
-  Next, the player is asked:
-  "Why do you think this tradition exists?"
-  The mission continues through:
+    Next, the player is asked:
+    "Why do you think this tradition exists?"
+    The mission continues through:
 
-  Step1 - Multiple Choice (4 options)
-  Players choose the explanation that feels most logical to them.
+    **Step1: Multiple Choice (4 options)**
+    Players choose the explanation that feels most logical to them.
 
-  Step 2 - Freeform Reasoning
-  Players type their own interpretation:
+    **Step 2: Freeform Reasoning**
+    Players type their own interpretation:
 
-  Step 3 - Social Poll Reveal
-  The screen reveals:
-  “You answered like 63% of global players.”
+    **Step 3: Social Poll Reveal**
+    The screen reveals:
+    “You answered like 63% of global players.”
 
     Or:
 
-  “Only 12% chose your interpretation — a rare insight!”
-
-  This turns cultural knowledge into a collective human experience, showing how different players interpret traditions.
+    “Only 12% chose your interpretation — a rare insight!”
+    This turns cultural knowledge into a collective human experience, showing how different players interpret traditions.
   
-**3. The Interworld Behavior Lab (Social Insight Capsules)**
+ **3. The Interworld Behavior Lab (Social Insight Capsules)**
 
-This lab is focused on human behavior, conflict resolution, emotional triggers, & communication patterns.
-Aliens observed Earth and recorded scenes of misunderstandings, emotional reactions, and micro-conflicts.
-Player has to choose the answer that would lead to the best outcome for everyone involved.
+  This lab is focused on human behavior, conflict resolution, emotional triggers, & communication patterns.
+  Aliens observed Earth and recorded scenes of misunderstandings, emotional reactions, and micro-conflicts.
+  Player has to choose the answer that would lead to the best outcome for everyone involved.
