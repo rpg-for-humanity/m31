@@ -35,26 +35,27 @@ These principles guide long-term engineering decisions and ensure the platform c
 **3. High-Level Product Architecture**
 M31 (World Client)
 
+M31 World Client
 ├── Player Experience (PX)
-|     ├── Dialogue Missions
-|     ├── 6-Step Mastery Flow
-|     ├── Vocabulary Border Battles
-|     ├── Myth Lab
-|     ├── Behavior Lab
-|     ├── Habitat Building
-
+│   ├── Dialogue Missions (SLM Loop)
+│   ├── 6-Step Mastery Flow
+│   ├── Vocabulary Border Battles
+│   ├── Myth Lab (Cultural Capsules)
+│   ├── Behavior Lab (Social Capsules)
+│   └── Habitat Building
+│
 ├── Creator Experience (CX)
-|     ├── Dialogue Builder
-|     ├── Capsule Builder (Myth + Behavior)
-|     ├── Upload & Moderation Flow
-|     ├── Marketplace (future)
-
+│   ├── Dialogue Builder
+│   ├── Capsule Builder (Myth + Behavior)
+│   ├── Upload & Moderation Flow
+│   └── Marketplace (future)
+│
 └── Platform Engine
-      ├── Structured Language Mastery (SLM) Engine
-      ├── Dialogue Tree Engine
-      ├── Capsule Engine
-      ├── Progression System
-      └── Safety & Moderation Engine (Legal & Compliance)
+    ├── Structured Language Mastery (SLM) Engine
+    ├── Dialogue Tree Engine
+    ├── Capsule Engine
+    ├── Progression System
+    └── Safety & Moderation Engine (Legal & Compliance)
 
 **4. Technology Stack (MVP)**
   - **Frontend (Game Client)**
