@@ -82,7 +82,8 @@ The player listens for:
         - reacton tests
   
   **⭐️M31 Challenge Features to gain Coins and or Habitat items**
-   **Protect M31 Border - Fight Off Aliens to Unlock Vocabulary**
+  
+   **1. Protect M31 Border - Fight Off Aliens to Unlock Vocabulary**
       At the M31 Border, players battle harmless alien shadows representing unknown vocabulary. Every alien defeated reveals:
         - a word,
         - a phase,
@@ -92,7 +93,7 @@ The player listens for:
       
         🔁 Repetition → Recognition → Association → Memory
 
-   **The Interworld Myth Lab (Cultural Insight Capsules)**
+   **2. The Interworld Myth Lab (Cultural Insight Capsules)**
       The Myth Lab is a quiet hall of transparent capsules, each holding a glowing "Cultural Myth Entity." 
       These entities are symbolic forms of misunderstandings that float between cultures.
 
@@ -120,12 +121,13 @@ The player listens for:
 
       This turns cultural knowledge into a collective human experience, showing how different players interpret traditions.
 
-  **The Interworld Behavior Lab (Social Insight Capsules)**
-      This is an expansion of your Myth Lab, but focused on human behavior, conflict resolution, emotional triggers, and communication patterns.
+  **3. The Interworld Behavior Lab (Social Insight Capsules)**
+      
+  This lab is focused on human behavior, conflict resolution, emotional triggers, & communication patterns.
 
-      Aliens observe Earth and record scenes of misunderstandings, emotional reactions, and micro-conflicts.
+  Aliens observed Earth and recorded scenes of misunderstandings, emotional reactions, and micro-conflicts.
 
-      Player has to choose the answer that would lead to the best outcome for everyone involved. 
+  Player has to choose the answer that would lead to the best outcome for everyone involved. 
 
       
       
