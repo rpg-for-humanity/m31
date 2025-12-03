@@ -34,6 +34,7 @@ These principles guide long-term engineering decisions and ensure the platform c
 
 **3. High-Level Product Architecture**
 M31 (World Client)
+
 ├── Player Experience (PX)
 |     ├── Dialogue Missions
 |     ├── 6-Step Mastery Flow
@@ -192,12 +193,19 @@ These act as implicit API contracts for all future developers
      - Patterh detection (grooming pattterns, manipulation, coercive scripts)
   **2. Validation Ruleset**
      ❌ No sexual, explicit, or NSFW content
+     
      ❌ No abusive or coercive psychological scripts
+     
      ❌ No real-world political persuasion
+     
      ❌ No trauma exploitation
+     
      ❌ No hateful or discriminatory speech
+     
       ✔ Cultural nuance (allowed)
+      
       ✔ Mild humor, etiquette, tradition explanations (allowed)
+      
   **3. Approval Workflow**
       - Pending → Approved → Rejected → Needs Revision
       - Creators receive feedback on failed submissions
