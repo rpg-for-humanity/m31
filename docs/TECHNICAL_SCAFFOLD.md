@@ -1,7 +1,9 @@
-#**Technical Scaffold - M31 (RPG for Humanity)**
+**Technical Scaffold - M31 (RPG for Humanity)**
+
 A foundational architecture plan for the MVP, the long-term engine, adn the creator ecosystem.
 
 **1. Purpose of This Document**
+
 This scaffold defines:
   - how M31 will be built technically
   - the structure of the client, backend, and creator SDK
@@ -14,6 +16,7 @@ This scaffold defines:
   - how everything connects
 
 **2. Architectural Principles & Design Philosophy**
+
 These principles guide long-term engineering decisions and ensure the platform can scale to millions of players and creators. 
 
   - **Web-Native First:**	
@@ -33,6 +36,7 @@ These principles guide long-term engineering decisions and ensure the platform c
   - Justification: Critical for realistic, culturally grounded language learning
 
 **3. High-Level Product Architecture**
+
 M31 (World Client)
 
 M31 World Client
@@ -58,6 +62,7 @@ M31 World Client
     └── Safety & Moderation Engine (Legal & Compliance)
 
 **4. Technology Stack (MVP)**
+  
   - **Frontend (Game Client)**
   - Description: Next.js Phaser / React-Phaser, OpenAI API, STT module
   - Rationale: Fastest MVP, low cost, global web-native accessibility
@@ -71,21 +76,24 @@ M31 World Client
   - Rationale: Modern JAMstack, optimized CI/CD and caching
     
 **5. Core Systems: Boundaries & Data Flow**
+
 These act as implicit API contracts for all future developers
 
   **5.1 Structured Language Mastery (SLM) Engine**
-    **Purpose:** Orchestrates recognition → inference → reaction → path unlocking.
-    **Boundary**
+   
+   **Purpose:** Orchestrates recognition → inference → reaction → path unlocking.
+   **Boundary**
       - Input: Player input (English/non-English language), Kokorobot's current non-English line
       - Output: Next Kokorobot line, hint, gesture, or correction
       - Core Logic: Match player inference against the 10 valid dialogue paths
 
-      Success Condition:
+   **Success Condition:**
         Unlocking all required dialogue paths to complete a micro-scenario (e.g., "Order a Coffee").
 
   **5.2 Dialogue Mission Engine (Mastery Flow Orchestrator)**
-    **Purpose:** Handles mission structure + post-completion learning steps
-    **Boundary**
+   
+   **Purpose:** Handles mission structure + post-completion learning steps
+   **Boundary**
     - Input: Mission Completion Signal
     - Output: Corrected dialogue sets, fill-in-the-blank exercises, written quiz, speaking prompts
 
@@ -94,6 +102,7 @@ These act as implicit API contracts for all future developers
         - Maintains player state through all 6 mastery steps
    
   **5.3 Capsule Engine (Myth + Behavior Labs)**
+   
    **Purpose:** Stores, serves, and aggregates data for:
       - cultural insight capsules
       - behavioral insight capsules
@@ -115,7 +124,7 @@ These act as implicit API contracts for all future developers
 
    **Supports Learning Cycle:** **Repetition → Recognition → Association → Memory** 
 
-  **5.5 Player Progression System**
+**5.5 Player Progression System**
     Tracks:
     - missions completed
     - dialogue sets mastered
@@ -127,6 +136,7 @@ These act as implicit API contracts for all future developers
     Stored in progression tables for simplicity
 
   **6. Roadmap**
+    
     Phase 1: MVP 
       - SLM Loop core engine
       - Coffee ordering mission
@@ -149,6 +159,7 @@ These act as implicit API contracts for all future developers
       - Shared user-created worlds
 
   **7. Security & Safety**
+      
       - All user-generated content undergoes moderation
       - Prohibited:
         - harmful or traumatic scenarios
@@ -158,6 +169,7 @@ These act as implicit API contracts for all future developers
       - Capsule templates ensure emotionally safe, non-political language
 
   **8. Future Engine Upgrade**
+      
       - Unity + WebGL adaptation
       - Cross-play: web+mobile
       - Full creator revenue sharing
@@ -165,12 +177,15 @@ These act as implicit API contracts for all future developers
       - Multi-world interoperability
 
   **9. Safety & Moderation Engine (Platform-Level Security Layer)**
+  
   A core system that governs what content is allowed into the platform, ensuring all dialogue sets, capsules, and player-  generated responses align with the mission of cultural intelligence, emotional safety, and responsible learning. 
 
   **Purpose:**
+  
   To prevent misuse of RPG for Humanity's creator ecosystem - such as manipulative scripts, explicit content, political indocrtrination, or psychological harmful scenarios - while preserving creativity and cultural expression.
 
   **Scope:**
+  
   The Safety & Moderation Engine validates content at three levels:
   **1. Creator Submissions (Dialogue Sets + Capsules)**
     - Pre-publication scanning
@@ -187,11 +202,13 @@ These act as implicit API contracts for all future developers
     - Conversation pack metadata
 
   **Moderation Pipeline**
+  
   Each submission flows through:
   **1. Ai Safety Filters**
      - Kanguage model classifier
      - Rule-based keyword checks
      - Patterh detection (grooming pattterns, manipulation, coercive scripts)
+  
   **2. Validation Ruleset**
      ❌ No sexual, explicit, or NSFW content
      
@@ -208,6 +225,7 @@ These act as implicit API contracts for all future developers
       ✔ Mild humor, etiquette, tradition explanations (allowed)
       
   **3. Approval Workflow**
+      
       - Pending → Approved → Rejected → Needs Revision
       - Creators receive feedback on failed submissions
       - System logs all decisions for auditability
