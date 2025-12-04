@@ -35,9 +35,7 @@ These principles guide long-term engineering decisions and ensure the platform c
   - Description: System accepts non-English Kokorobot lines and STT for mastery	
   - Justification: Critical for realistic, culturally grounded language learning
 
-**3. High-Level Product Architecture**
-
-M31 (World Client)
+## 3. High-Level Product Architecture
 
 M31 World Client
 ├── Player Experience (PX)
