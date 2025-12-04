@@ -204,19 +204,13 @@ These act as implicit API contracts for all future developers
      - Patterh detection (grooming pattterns, manipulation, coercive scripts)
   
   **2. Validation Ruleset**
-     ❌ No sexual, explicit, or NSFW content
-     
-     ❌ No abusive or coercive psychological scripts
-     
-     ❌ No real-world political persuasion
-     
-     ❌ No trauma exploitation
-     
-     ❌ No hateful or discriminatory speech
-     
-      ✔ Cultural nuance (allowed)
-      
-      ✔ Mild humor, etiquette, tradition explanations (allowed)
+     ❌ No sexual, explicit, or NSFW content  
+     ❌ No abusive or coercive psychological scripts  
+     ❌ No real-world political persuasion  
+     ❌ No trauma exploitation  
+     ❌ No hateful or discriminatory speech  
+      ✔ Cultural nuance (allowed)  
+      ✔ Mild humor, etiquette, tradition explanations (allowed)  
       
   **3. Approval Workflow**
       
