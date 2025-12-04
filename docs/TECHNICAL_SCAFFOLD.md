@@ -19,25 +19,26 @@ This scaffold defines:
 
 These principles guide long-term engineering decisions and ensure the platform can scale to millions of players and creators. 
 
-  - **Web-Native First:**	
+  **Web-Native First:**	
   - Description: MVP ships on the web via Next.js + Vercel	
   - Justification: Global accessibility, no app store friction, fastest MVP timeline
 
-  - **Decoupled Engine:**	
+  **Decoupled Engine:**	
   - Description: Core logic (SLM, Capsules, Vocabulary) is independent of the visual client	
   - Justification: Enables creator tools, modular scalability, future marketplace
 
-  - **Data as Source of Truth:**	
+  **Data as Source of Truth:**	
   - Description: All game content (missions, capsules, vocab) lives in the database (Supabase)	
   - Justification: Supports moderation, rapid updates, Social Poll Reveal
 
-  - **Language Integrity:**	
+  **Language Integrity:**	
   - Description: System accepts non-English Kokorobot lines and STT for mastery	
   - Justification: Critical for realistic, culturally grounded language learning
 
 ## 3. High-Level Product Architecture
 
 M31 World Client
+
 ├── Player Experience (PX)
 │   ├── Dialogue Missions (SLM Loop)
 │   ├── 6-Step Mastery Flow
@@ -61,15 +62,15 @@ M31 World Client
 
 **4. Technology Stack (MVP)**
   
-  - **Frontend (Game Client)**
+  **Frontend (Game Client)**
   - Description: Next.js Phaser / React-Phaser, OpenAI API, STT module
   - Rationale: Fastest MVP, low cost, global web-native accessibility
 
-  - **Backend/Database**
+  **Backend/Database**
   - Description: Supbase (Postgres, Auth, Edge Functions, Storage)
   - Rationale: Ideal for rapid iteration and live content updates
 
-  - **Deployment**
+  **Deployment**
   - Description: Vercel (frontend), Supabase(backend)
   - Rationale: Modern JAMstack, optimized CI/CD and caching
     
