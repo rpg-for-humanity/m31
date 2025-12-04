@@ -35,7 +35,9 @@ These principles guide long-term engineering decisions and ensure the platform c
 M31 World Client
 
 ├── Player Experience (PX)
+
 │   ├── Dialogue Missions (SLM Loop)
+
 │   ├── 6-Step Mastery Flow
 │   ├── Vocabulary Border Battles
 │   ├── Myth Lab (Cultural Capsules)
