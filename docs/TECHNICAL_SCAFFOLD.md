@@ -1,6 +1,6 @@
 **Technical Scaffold - M31 (RPG for Humanity)**
 
-A foundational architecture plan for the MVP, the long-term engine, adn the creator ecosystem.
+A foundational architecture plan for the MVP, the long-term engine, and the creator ecosystem.
 
 **1. Purpose of This Document**
 
@@ -9,11 +9,6 @@ This scaffold defines:
   - the structure of the client, backend, and creator SDK
   - the architecture supporting dialogue missions, culture capsules, and behavioral capsules
   - future-proofing for a Robolox-like creator marketplace
-
-  It ensures that every engineer or technical co-founder knows:
-  - what exists
-  - what to build next
-  - how everything connects
 
 **2. Architectural Principles & Design Philosophy**
 
